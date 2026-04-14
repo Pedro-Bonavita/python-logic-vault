@@ -1,4 +1,4 @@
-# Python Logic & Data Analytics Vault 🚀
+# Python Logic & Data Analytics Vault 
 
 Welcome! This repository is a curated collection of my journey through Python programming, ranging from core logic challenges to advanced data analysis and security simulations.
 
@@ -11,26 +11,25 @@ Welcome! This repository is a curated collection of my journey through Python pr
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🥖 Bakery Sales Analysis (Padaria Pão de Ouro)
+###  Bakery Sales Analysis (Padaria Pão de Ouro)
 A complete data consultancy project where I analyzed revenue, ticket averages, and regional performance. 
 - **Skills:** Data Visualization, Pandas, Business Intelligence.
 
-### 🛡️ Security & Privacy
+### Security & Privacy
 Implementation of logic-based security measures and brute-force simulations to understand system vulnerabilities.
 - **Focus:** Digital Privacy and Cyber Security.
 
-### 📦 Smart Inventory & ETL
+### Smart Inventory & ETL
 Automation scripts for inventory management and music database ingestion (ETL processes).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** Pandas, Matplotlib, Numpy
 - **Environment:** Linux (Debian Trixie) & Windows 10
-- **Concepts:** UX/HCI, Data Cleaning, Security-by-design
 
 ---
 *Developed by Pedro Bonavita — Focused on Data Analysis and International Opportunities.*
