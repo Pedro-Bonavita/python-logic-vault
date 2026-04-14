@@ -30,6 +30,11 @@ def admin_panel():
     else:
         print('Option not found.')
 
+# Technical Note: We use the 'getpass' library to handle password input.
+# Unlike 'input()', 'getpass.getpass()' hides the characters in the terminal
+# while the user types, preventing "shoulder surfing" and enhancing privacy.
+# This is a basic but essential security practice in command-line interfaces (CLI).
+
 def login():
     username = input('Username: ')
     password = getpass.getpass('Password: ')
@@ -57,5 +62,6 @@ while True:
         login()
     elif choice == '0':
         print ("System closed.")
+        break
     else:
         print("Invalid choice.")
